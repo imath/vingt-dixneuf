@@ -45,11 +45,11 @@
 	<?php elseif ( 'participants' === bp_get_member_type( get_current_user_id() ) ) : ?>
 		<nav id="site-navigation" class="main-navigation" aria-label="<?php esc_attr_e( 'Top Menu', 'twentynineteen' ); ?>">
 			<?php
+			/**
+			 * Pensez à créer un menu "Participants" depuis le customizer et à y
+			 * ajouter les éléments spécifiques aux participants.
+			 */
 			wp_nav_menu(
-				/**
-				 * Pensez à créer un menu "Participants" depuis le customizer et à y
-				 * ajouter les éléments spécifiques aux participants.
-				 */
 				array(
 					'menu'       => 'participants', // Slug de votre menu pour les participants
 					'menu_class' => 'main-menu',

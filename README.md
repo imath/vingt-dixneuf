@@ -4,7 +4,7 @@ Un thème enfant de TwentyNineteen pour illustrer comment mettre en place des zo
 
 ## Définir les types de membre BuddyPress
 
-Voir la fonction `vingtdixneuf_register_member_types_with_directory()` du fichier [inc/bp-customs.php](./inc/bp-customs.php)
+Voir la fonction `vingtdixneuf_register_member_types_with_directory()` du fichier [inc/bp-customs.php](./inc/bp-customs.php).
 
 ## Créer des menus WordPress
 
@@ -31,4 +31,4 @@ Voir les lignes 33 à 93 du template [site-branding.php](./template-parts/header
 
 ## Personnaliser le chargement des pages de BuddyPress
 
-Voir la fonction `vingtdixneuf_user_router()` du fichier [inc/bp-customs.php]
+Voir la fonction `vingtdixneuf_user_router()` du fichier [inc/bp-customs.php](./inc/bp-customs.php).

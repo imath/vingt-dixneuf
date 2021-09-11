@@ -1,0 +1,7 @@
+.buddypress-wrap.extended-default-reg .register-page .default-profile {
+    min-width: 45%;
+}
+
+.buddypress-wrap .standard-form .datebox-selects label, .buddypress-wrap .standard-form .datebox-selects  span.label {
+	display: inline;
+}

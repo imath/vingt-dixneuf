@@ -1,3 +1,3 @@
-# vingtdixneuf
+# Vingt-DixNeuf
 
-Un thème enfant de TwentyNineteen.
+A TwentyNineteen's theme kid.

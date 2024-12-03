@@ -1,3 +1,3 @@
 # Vingt-DixNeuf
 
-A TwentyNineteen's theme kid.
+This WP Theme is no more supported and this repository is now archived.
